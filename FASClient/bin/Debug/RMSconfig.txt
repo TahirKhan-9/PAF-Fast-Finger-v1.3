@@ -1,0 +1,1 @@
+Server=localhost;Initial Catalog=rms_a;uid=sa;pwd=dds;

@@ -1,0 +1,1 @@
+Server=10.0.60.11;Database=FASSQL;uid=sa;pwd=PAF-FAS@123;

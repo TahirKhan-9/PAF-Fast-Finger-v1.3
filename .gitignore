@@ -1,0 +1,13 @@
+*.suo
+*.user
+_ReSharper.*
+obj
+bin/Debug/Templates
+bin/*.zip
+bin/*.rar
+bin/Debug/*.txt
+bin/Debug/*.zip
+bin/Debug/*.rar
+bin/Release
+packages
+.vs
